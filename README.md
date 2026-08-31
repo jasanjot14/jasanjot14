@@ -2,10 +2,13 @@
 
 # Jasanjot Gill
 
-**Computer Science and Business Administration Double Degree**  
+**Computer Science + Business Administration Double Degree**  
 University of Waterloo / Wilfrid Laurier University
 
-<a href="https://www.linkedin.com/in/jasanjot-gill/">LinkedIn</a> · <a href="mailto:jasanjot14@gmail.com">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasanjot-gill"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jasanjot14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
 </div>
 
@@ -13,9 +16,9 @@ University of Waterloo / Wilfrid Laurier University
 
 ### About
 
-My background is split between computer science and business, so I tend to think about projects from both sides: how the system is built, and whether the end result is actually useful in practice.
+My background combines computer science and business, which shapes how I think about software: how it works, how people use it, and whether it solves the problem well.
 
-I like building projects end to end, from the interface and user flow to the data, APIs, and implementation behind it.
+I enjoy building software across different areas, from interfaces and mobile apps to APIs and lower-level systems work.
 
 ### Tech Stack
 
